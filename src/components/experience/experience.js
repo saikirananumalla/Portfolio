@@ -12,7 +12,7 @@ const experienceData = [
   {
     "company": "Software Engineer",
     "url": "https://www.bny.com/",
-    "time": "Jul 2021 - Aug 2023",
+    "time": "Jan 2021 - Aug 2023",
     "position": "BNY"
   },
   {
